@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+	color: purple;
+}
+
+.overall{
+	border: dotted 5px;
+	background-color: #E8FBFB;
+
+}
+.picture{
+	text-align: center;
+}
+
+
+
+.place{
+
+	padding: 4pt;
+}
+
+h2{
+	font-family: verdana;
+	color: blue;
+	text-align: center;
+}
+pre{
+
+	text-align: center;
+
+}
