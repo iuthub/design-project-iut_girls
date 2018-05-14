@@ -83,7 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    BEATYBLOG
+                    BEAUTY BLOG
                 </div>
 
                 <div class="links">
